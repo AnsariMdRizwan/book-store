@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Matemasie&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    font-family: "Matemasie", sans-serif;
+}
+h1,p{
+    font-family: "Josefin Sans", sans-serif;
+}
